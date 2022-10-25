@@ -12,9 +12,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Snapchat filter using only Mediapipe and Opencv.
+Snapchat filter using only Mediapipe and Opencv. You can see the sample image below. To use another object as the fiter, you need to modify coordinates of the object with a 3D modeling tool like Blender.
 
-
+![sample_image](https://github.com/nuwandda/snapchat-filter-3d/blob/main/output_python.mp4)
 
 <!-- GETTING STARTED -->
 ## Getting Started
